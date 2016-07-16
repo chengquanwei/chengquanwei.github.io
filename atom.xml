@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>以手筑城</title>
+  <subtitle>以手筑城</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.chengquanwei.com/"/>
+  <updated>2016-07-16T04:20:01.676Z</updated>
+  <id>http://www.chengquanwei.com/</id>
+  
+  <author>
+    <name>以手筑城</name>
+    <email>1170001884@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如果天亮了</title>
+    <link href="http://www.chengquanwei.com/2016/07/16/%E5%A6%82%E6%9E%9C%E5%A4%A9%E4%BA%AE%E4%BA%86/"/>
+    <id>http://www.chengquanwei.com/2016/07/16/如果天亮了/</id>
+    <published>2016-07-16T04:15:00.000Z</published>
+    <updated>2016-07-16T04:20:01.676Z</updated>
+    
+    <content type="html"><![CDATA[<p>&#x5982;&#x679C;&#x5929;&#x4EAE;&#x4E86;&#xFF0C;<br>&#x5C31;&#x9192;&#x6765;&#x5427;&#xFF0C;<br>&#x671B;&#x671B;&#x8FDC;&#x5904;&#x7684;&#x4E00;&#x89D2;&#x5929;&#x8FB9;&#xFF0C;<br>&#x770B;&#x90A3;&#x91CC;&#x7F15;&#x7F15;&#x767D;&#x4E91;&#x7684;&#x5E7B;&#x60F3;&#xFF0C;<br>&#x80E1;&#x601D;&#x4E71;&#x60F3;&#x7740;&#x751F;&#x6D3B;&#x7684;&#x79CD;&#x79CD;&#xFF0C;<br>&#x6211;&#x4EEC;&#x53EF;&#x4EE5;&#x7AD9;&#x5728;&#x8FD9;&#x91CC;&#xFF0C;<br>&#x5B89;&#x7136;&#x800C;&#x9759;&#x8C27;&#xFF0C;<br>&#x7B49;&#x5F85;&#x7740;&#x63A5;&#x53D7;&#x9633;&#x5149;&#x7684;&#x660E;&#x5A9A;&#x3002;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;#x5982;&amp;#x679C;&amp;#x5929;&amp;#x4EAE;&amp;#x4E86;&amp;#xFF0C;&lt;br&gt;&amp;#x5C31;&amp;#x9192;&amp;#x6765;&amp;#x5427;&amp;#xFF0C;&lt;br&gt;&amp;#x671B;&amp;#x671B;&amp;#x8FDC;&amp;#x5904;&amp;#x7684;&amp;
+    
+    </summary>
+    
+      <category term="post" scheme="http://www.chengquanwei.com/categories/post/"/>
+    
+    
+      <category term="Life" scheme="http://www.chengquanwei.com/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>妈妈说</title>
+    <link href="http://www.chengquanwei.com/2016/07/06/%E5%A6%88%E5%A6%88%E8%AF%B4/"/>
+    <id>http://www.chengquanwei.com/2016/07/06/妈妈说/</id>
+    <published>2016-07-06T15:37:10.000Z</published>
+    <updated>2016-07-13T15:44:39.821Z</updated>
+    
+    <content type="html"><![CDATA[<p>&#x95EE;&#x5988;&#x5988;&#xFF1A;&#x8FD9;&#x51E0;&#x5929;&#x96E8;&#x5F88;&#x591A;&#xFF0C;&#x6709;&#x7684;&#x5730;&#x65B9;&#x90FD;&#x6DF9;&#x4E86;&#xFF0C;&#x5BB6;&#x91CC;&#x600E;&#x4E48;&#x6837;&#x4E86;&#xFF0C;&#x6709;&#x6CA1;&#x6709;&#x4E0B;&#x96E8;&#x554A;&#xFF1F;<br>&#x5988;&#x5988;&#x8BF4;&#xFF1A;&#x5BB6;&#x91CC;&#x6CA1;&#x4E0B;&#x96E8;&#xFF0C;&#x8FD8;&#x65F1;&#x7740;&#x5462;&#xFF0C;&#x6709;&#x7684;&#x4EBA;&#x5BB6;&#x8FD8;&#x8981;&#x6D47;&#x5E84;&#x5BB6;&#x5730;&#x5462;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;#x95EE;&amp;#x5988;&amp;#x5988;&amp;#xFF1A;&amp;#x8FD9;&amp;#x51E0;&amp;#x5929;&amp;#x96E8;&amp;#x5F88;&amp;#x591A;&amp;#xFF0C;&amp;#x6709;&amp;#x7684;&amp;#x5730;&amp;#x65B9;&amp;#x90FD;&amp;#x6DF9;&amp;
+    
+    </summary>
+    
+      <category term="雄心尚在" scheme="http://www.chengquanwei.com/categories/%E9%9B%84%E5%BF%83%E5%B0%9A%E5%9C%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.chengquanwei.com/2016/06/28/hello-world/"/>
+    <id>http://www.chengquanwei.com/2016/06/28/hello-world/</id>
+    <published>2016-06-28T15:04:53.033Z</published>
+    <updated>2016-07-13T16:03:47.714Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
