@@ -50,16 +50,16 @@
     </entry>
     
     <entry>
-      <title><![CDATA[读书]]></title>
-      <url>http://www.chengquanwei.com/reading/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[archives]]></title>
       <url>http://www.chengquanwei.com/archives/index.html</url>
       <content type="html"><![CDATA[<p>ssssssssssssssssssssssssssssssssssssssssss</p>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[读书]]></title>
+      <url>http://www.chengquanwei.com/reading/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
